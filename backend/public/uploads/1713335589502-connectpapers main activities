@@ -1,0 +1,5 @@
+Main Activties:
+1 - Take a bunch of research papers as input
+2 - Extract the references from the research papers
+3 - Try to cross match the references with each other
+4 - Create a graph
